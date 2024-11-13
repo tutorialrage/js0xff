@@ -1,8 +1,8 @@
-# 🔒 JavaScript js0x1 Protector
+# 🔒 JavaScript js0xff Protector
 
-**js0x1** is a **JavaScript code protection tool** designed to help developers secure their code through code transformation and optimization techniques. Our solution focuses on maintaining code functionality while adding reasonable protection layers.
+**js0xff** is a **JavaScript code protection tool** designed to help developers secure their code through code transformation and optimization techniques. Our solution focuses on maintaining code functionality while adding reasonable protection layers.
 
-## 🎯 Js0x1 Features 
+## 🎯 Js0xff Features 
 
 - Variable name transformation
 - String encryption
@@ -17,7 +17,7 @@
 
 1. **Visit Website:**
 
-    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0x1.github.io/js0x1/)
+    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0xff.github.io/js0xff/)
 
 ### How to Use?
 
@@ -44,7 +44,7 @@
 
 ## 💪 Unmatched Capabilities
 
-| Feature | Basic Obfuscators | Premium Tools | js0x1 |
+| Feature | Basic Obfuscators | Premium Tools | js0xff |
 |---------|------------------|---------------|---------|
 | Rename Variables | ✓ | ✓ | ✓✓✓ |
 | String Encryption | Basic | Advanced | Military-Grade |
@@ -52,12 +52,12 @@
 | Large File Support | × | Limited | Unlimited |
 | Deobfuscation Resistance | Low | Medium | Very High |
 
-## 🌟 Why Choose js0x1?
+## 🌟 Why Choose js0xff?
 
-Unlike basic obfuscators that provide simple protection easily bypassed by automated tools, js0xpi implements sophisticated encryption algorithms and protection techniques that make reverse engineering extremely difficult and time-consuming.
+Unlike basic obfuscators that provide simple protection easily bypassed by automated tools, js0xff implements sophisticated encryption algorithms and protection techniques that make reverse engineering extremely difficult and time-consuming.
 
 ---
 
 ### ⚠️ Security Notice
-> While **js0x1** provides exceptional protection, we maintain honest communication about security. No protection system is technically **"unbreakable"** - we simply make reverse engineering so complex and time-consuming that it becomes impractical.
+> While **js0xff** provides exceptional protection, we maintain honest communication about security. No protection system is technically **"unbreakable"** - we simply make reverse engineering so complex and time-consuming that it becomes impractical.
 > 
