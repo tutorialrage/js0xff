@@ -17,7 +17,7 @@
 
 1. **Visit Website:**
 
-    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0xff.github.io/js0xff/)
+    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://js0xff.vercel.app/)
 
 ### How to Use?
 
