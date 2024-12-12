@@ -28,7 +28,7 @@
 2. **Input Your Code**
    - Paste your JavaScript code into the input field
    - Select desired protection options
-   - Click "Process Code"
+   - Click "Protect Code"
 
 3. **Get Protected Output**
    - Download the protected file for large code
